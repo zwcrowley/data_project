@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Analysis",
+    "section": "",
+    "text": "Analysis Results\nBelow are the results of the analysis:\n\n\nInclude your R code here\nsummary(cars)"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data Sources",
+    "section": "",
+    "text": "Data Sources\nThe data used in this project comes from:\n\nDataset A: Description of Dataset A.\nDataset B: Description of Dataset B."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Project",
+    "section": "",
+    "text": "Introduction\nThis is the documentation for my data project. Here you’ll find:\n\nOverview of the project\nData sources\nAnalysis results"
+  }
+]
