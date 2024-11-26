@@ -25,6 +25,9 @@ format:
     toc-depth: 2
     toc-location: left
 
+execute:
+  freeze: auto
+
 output-dir: _site
 
 
