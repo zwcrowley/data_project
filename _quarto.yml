@@ -4,6 +4,7 @@ project:
 website:
   title: "My Data Project"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
@@ -14,6 +15,15 @@ website:
     right:
       - icon: github
         href: https://github.com/zwcrowley/data_project
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: Contents
+    toc-depth: 2
+    toc-location: left
 
 output-dir: _site
 
