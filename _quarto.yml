@@ -7,11 +7,13 @@ website:
     background: primary
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - href: data.qmd
-        text: Data
+        text: "Data"
       - href: analysis.qmd
-        text: Analysis
+        text: "Analysis"
+      - href: about.qmd
+        text: "About"
     right:
       - icon: github
         href: https://github.com/zwcrowley/data_project
