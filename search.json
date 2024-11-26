@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Project",
+    "section": "",
+    "text": "Introduction\n\nThis is the documentation for my data project. Here you’ll find:\n\nOverview of the project\nData sources\nAnalysis results"
+  },
+  {
     "objectID": "data.html",
     "href": "data.html",
     "title": "Data Sources",
@@ -11,14 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Project",
-    "section": "",
-    "text": "Introduction\n\nThis is the documentation for my data project. Here you’ll find:\n\nOverview of the project\nData sources\nAnalysis results"
+    "text": "About this site\n\nThis is new important information: This is new!!!"
   },
   {
     "objectID": "analysis.html",
